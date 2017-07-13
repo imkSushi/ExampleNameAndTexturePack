@@ -1,0 +1,12 @@
+author = imkSushi
+
+version = 1.0.0
+displayName = Example name and texture pack
+homepage = https://forums.terraria.org/index.php?threads/imksushis-data-packs-mod-change-item-names-and-textures-compatible-with-other-mods.59794/
+modReferences = imkSushisDataPacksMod
+weakreferences = imkSushisMod
+hideCode = false
+hideResources = false
+includeSource = true
+
+includePDB = true

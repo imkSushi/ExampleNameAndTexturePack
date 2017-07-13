@@ -1,0 +1,11 @@
+This is an example of usage of imkSushi's Data Packs Mod
+
+Changes the Tin Bar's name to Potatoe
+Changes the Cobalt Shield's Name to Shield of Knockbacklessness
+Changes Excalibur's texture
+Changes Muramasa's texture
+with imkSushi's Mod installed:
+Changes the Cookie's name to Not a Cookie
+Changes the Angler Amnesia Potion's name to Potion of Forgetting
+Changes the Cookie's texture to a worse one
+Changes the Toy Tank texture to a worse one
